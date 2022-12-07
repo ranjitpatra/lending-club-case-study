@@ -37,6 +37,7 @@
 - pandas - version 1.5.1
 - matplotlib - version 3.6.2
 - seaborn - version 0.12.1
+- missingno - version 0.5.1
 
 ## Acknowledgements
 This project is a part of assignment submission of "Executive PG Programme in Machine Learning" by IIIT bangalore and Upgrad.
